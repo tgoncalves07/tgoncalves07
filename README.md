@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tiago</h1>
-<h3 align="center">I am a simple guy trying to join the police force and who enjoys programming.</h3>
+<h3 align="center">I'm a simple Portuguese guy who likes programming.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tgoncalves07&label=Profile%20views&color=0e75b6&style=flat" alt="tgoncalves07" /> </p>
 
